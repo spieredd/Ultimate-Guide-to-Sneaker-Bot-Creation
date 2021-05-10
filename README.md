@@ -55,7 +55,7 @@ Meanwhile, for request-based bot you will need to use the network panel, in orde
 
 ---
 
-## Deploying your Sneaker Bot
+## 4. Deploying your Sneaker Bot
 
 ---
 
@@ -67,7 +67,7 @@ Meanwhile, for request-based bot you will need to use the network panel, in orde
 
 ---
 
-## 4. Sneaker Bot Marketplace
+## 5. Sneaker Bot Marketplace
 
 ---
 

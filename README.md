@@ -45,8 +45,34 @@ Meanwhile, for request-based bot you will need to use the network panel, in orde
 
 ### Electron
 
+---
+
 ### Tkinter
 
+---
+
 ### React
+
+---
+
+## Deploying your Sneaker Bot
+
+---
+
+### Heroku
+
+---
+
+### Google Cloud Functions
+
+---
+
+## 4. Sneaker Bot Marketplace
+
+---
+
+### Discord
+
+---
 
 

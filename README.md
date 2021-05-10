@@ -1,6 +1,6 @@
 # Ultimate Guide to Sneaker Bot Creation 👟 (2021 Edition)
 
-The Ultimate Guide to Sneaker Bot 🤖  Creation using JavaScript and NodeJS ☣️ . Learn how to get the most out of tools like the Chrome devTools, and JS Libraries like Puppeteer or Axios.
+Ultimate Guide to Sneaker Bot Creation 👟 . Very rare and valuable informations which is presented in this free guide, so please consider leaving a star to encourage me for future updates and open-source projects/tutorials.
 
 ---
 

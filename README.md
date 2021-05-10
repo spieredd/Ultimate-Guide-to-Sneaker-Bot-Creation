@@ -3,6 +3,10 @@ The Ultimate Guide to Sneaker Bot 🤖  Creation using JavaScript and NodeJS ☣
 
 ---
 
+## 1. Creating your Sneaker Bot
+
+---
+
 ### The two types of Sneaker Bots
 
 There are two types of sneaker bot and web bot in general:
@@ -20,8 +24,28 @@ For Browser-like bot, you will need to use the elements panel in order to get th
 
 Meanwhile, for request-based bot you will need to use the network panel, in order to analyse the requests that get sent from the website to the server (when adding a product to the cart for example).
 
+---
+
+## 2. Obsfucating Bot Activity
+
+---
+
+### HTTP Headers
+
+### Proxies and why are they essentials
+
+### Port-scanning
+
+---
+
+## 3. Creating your user interface
+
+---
+
+### Electron
+
+### Tkinter
+
+### React
 
 
-## 1. Browser-like Bot
-
-## 2. Request-Based Bot
